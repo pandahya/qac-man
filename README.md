@@ -1,2 +1,2 @@
-# qacman
-quantum pacman
+# qac-man
+quantum pac-man
